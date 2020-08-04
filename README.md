@@ -1,7 +1,6 @@
 # ✨ Hello World..!!! ✨ 😄
 
 ### My Name Miftakhuddin Falaki call me kiki
-
 <!--
 **kikuKeii/kikukeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Indonesian
 - ⚡ Fun fact: I Like read comic, watch anime
 -->
-Here are some ideas to get you started:
   👋
 - 🌱 I’m currently learning Kotlin language and Android studio
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="#connect-with-me">Here</a>
 - 😄 Pronouns: Indonesian
 - ⚡ Fun fact: I Like read comic, watch anime
-
 <br />
 <br />
 
@@ -35,7 +32,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="kikukeii.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kikukeii_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 <br />
 
@@ -59,7 +55,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br />
 <br />
 
