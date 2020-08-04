@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Indonesian
 - ⚡ Fun fact: I Like read comic, watch anime
 -->
+Here are some ideas to get you started:
+  👋
 - 🌱 I’m currently learning Kotlin language and Android studio
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="#connect-with-me">Here</a>
@@ -23,15 +25,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I Like read comic, watch anime
 
 <br>
+---
 
 ### Connect with me:
 
-<img align="left" alt="kikukeii.github.io" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />[kikugit]
-<img align="left" alt="kikukeii.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
-<img align="left" alt="kikukeii_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
-<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
+[<img align="left" alt="kikukeii.github.io" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][kikugit]
+[<img align="left" alt="kikukeii.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kikukeii_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 ### Languages and Tools:
 
@@ -55,12 +59,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 ---
 
 <img align="left" alt="kikuKeii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kikukeii&show_icons=true&hide_border=true" />
 
-kikugit: http://kikukeii.github.io
-website: https://kikukeii.wordpress.com
-twitter: https://twitter.com/kikukeii_
-instagram: https://instagram.com/kikukeii
+[kikugit]: http://kikukeii.github.io
+[website]: https://kikukeii.wordpress.com
+[twitter]: https://twitter.com/kikukeii_
+[instagram]: https://instagram.com/kikukeii
