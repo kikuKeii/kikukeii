@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Indonesian
 - ⚡ Fun fact: I Like read comic, watch anime
 
-<br>
+<br />
+<br />
+
 ---
 
 ### Connect with me:
@@ -35,6 +37,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
 ---
 
 ### Languages and Tools:
