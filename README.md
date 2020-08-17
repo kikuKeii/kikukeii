@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="kikuKeii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kikukeii&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="kikuKeii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kikukeii&show_icons=true&hide_border=true" />
+-->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kikukeii&show_icons=true&theme=gruvbox)
 
 [kikugit]: http://kikukeii.github.io
 [website]: https://kikukeii.wordpress.com
