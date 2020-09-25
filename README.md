@@ -1,7 +1,7 @@
 # ✨ Hello World..!!! ✨ 😄
 
-#### My Name Miftakhuddin Falaki call me kiki
-I'm from Indonesian
+#### I'm Miftakhuddin Falaki call me kiki
+from Indonesian
 <!--
 **kikuKeii/kikukeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
+<!--
 ### Connect with me:
 
 [<img align="left" alt="kikukeii.github.io" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][kikugit]
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
+-->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="left" alt="kikuKeii's Github Stats" src="https://github-readme-stats.kikukeii.vercel.app/api?username=kikukeii&show_icons=true&hide_border=true" />
 -->
-![Anurag's github stats](https://github-readme-stats.kikukeii.vercel.app/api?username=kikukeii&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.kikukeii.vercel.app/api?username=kikukeii&show_icons=true)
 
 [kikugit]: http://kikukeii.github.io
 [website]: https://kikukeii.wordpress.com
