@@ -60,7 +60,14 @@ Here are some ideas to get you started:
 
 <!-- <img align="left" alt="kikuKeii's Github Stats" src="https://github-readme-stats.kikukeii.vercel.app/api?username=kikukeii&show_icons=true&hide_border=true" />
 -->
-![Anurag's github stats](https://github-readme-stats.kikukeii.vercel.app/api?username=kikukeii&show_icons=true)
+<details>
+  <summary>:zap: GitHub Stats & <s>Top Languages</s></summary>
+
+  ![Anurag's github stats](https://github-readme-stats.kikukeii.vercel.app/api?username=kikukeii&show_icons=true)
+  [![Top Langs](https://github-readme-stats.kikukeii.vercel.app/api/top-langs/?username=kikukeii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 
 [kikugit]: http://kikukeii.github.io
 [website]: https://kikukeii.wordpress.com
