@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Miftakhuddin Falakai
 #### I am Programmer & Web Developer
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![I am Programmer & Web Developer](https://pbs.twimg.com/profile_banners/1033534929001316353/1603127062/1500x500)
 
@@ -41,8 +41,6 @@ I Love codding.
 [<img align="left" alt="kikukeii.github.io" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][kikugit]
 [<img align="left" alt="kikukeii.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kikukeii_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br>
 
 ---
@@ -68,15 +66,15 @@ I Love codding.
 
 ---
 
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kikukeii)  
-
 ![GitHub metrics](https://metrics.lecoq.io/kikukeii)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kikukeii)  
-
+-->
 
 
 <!--
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 # ✨ Hello World..!!! ✨ 😄
 #### I'm Miftakhuddin Falaki call me kiki
 from Indonesian
@@ -107,10 +105,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
+[<img align="left" alt="kikukeii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://instagram.com/kikukeii
 -->
 
 [kikugit]: http://kikukeii.github.io
 [website]: https://kikukeii.wordpress.com
 [twitter]: https://twitter.com/kikukeii_
-[instagram]: https://instagram.com/kikukeii
 
