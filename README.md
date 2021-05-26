@@ -7,7 +7,7 @@
 
 ![I am Programmer & Web Developer](https://pbs.twimg.com/profile_banners/1033534929001316353/1603127062/1500x500)
 
-I Love codding.
+<strike>I Love codding</strike>.
 
 ---
 
