@@ -3,7 +3,6 @@
 ### Hi there 👋, my name is Miftakhuddin Falakai
 #### I am Programmer & Web Developer
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![I am Programmer & Web Developer](https://pbs.twimg.com/profile_banners/1033534929001316353/1603127062/1500x500)
 
