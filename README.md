@@ -1,5 +1,5 @@
 # ✨ Hello World..!!! ✨ 😄
-<a href="https://github.com/kikukeii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
+<a href="https://github.com/kikukeii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=true"/></a>
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
