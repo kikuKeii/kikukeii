@@ -24,6 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miftakhuddin-falaki) 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/kikukeii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kikukeii" /></a></p><br><br>
+<h3 align="left">💳 Support:</h3>
+<p><a href="https://ko-fi.com/kikukeii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="kikukeii" /></a></p><br><br>
 
