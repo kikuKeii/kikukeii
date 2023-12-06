@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
-<h3 align="center">I am Programmer & Web Developer</h3>
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppies&weight=1000&pause=1000&color=EE4D2D&center=true&random=false&width=435&lines=I'm+Programmer;+Back-end+Developer;Web+Developer;Web+Application+Developer" alt="Typing SVG" /></a></h3> 
+
+
 
 ![I am Programmer & Web Developer](https://raw.githubusercontent.com/kikuKeii/kikukeii/master/sampul.png)
 
