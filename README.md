@@ -29,3 +29,10 @@
 <h3 align="left">💳 Support:</h3>
 <p><a href="https://ko-fi.com/kikukeii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="kikukeii" /></a></p><br><br>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kikuKeii/kikukeii/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kikukeii/kikukeii/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="[github-snake.svg](https://github.com/kikukeii/kikukeii/blob/output/github-contribution-grid-snake.svg)" />
+</picture>
