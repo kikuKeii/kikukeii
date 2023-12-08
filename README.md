@@ -19,11 +19,16 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![]()
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true" />
+  <img alt="github-snake" src="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true" />
+</picture>
 
 ---
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miftakhuddin-falaki) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miftakhuddin-falaki)  <a href="https://twitter.com/kikukeii_" target="blank"><img src="https://img.shields.io/twitter/follow/kikukeii_?logo=twitter&style=for-the-badge" alt="kikukeii_" /></a>
 ---
 
 <h3 align="left">💳 Support:</h3>
