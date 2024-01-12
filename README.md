@@ -11,7 +11,7 @@ WHERE theRightPersonForYourJob LIKE 'Programmer'
 
 ```
 
-<details open>
+<details>
    <summary>↲ results ⟪12/01/2024⟫  </summary>
   
 # ✨ Hello World..!!! ✨ 😄
