@@ -15,17 +15,6 @@ WHERE theRightPersonForYourJob LIKE 'Programmer'
 
 <details>
    <summary>↲ results ⟪12/01/2024⟫  </summary>
-  
-```
-  _   _      _ _        __        __         _     _   _   _   _ 
- | | | | ___| | | ___   \ \      / /__  _ __| | __| | | | | | | |
- | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | | | | | | |
- |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| | |_| |_| |_|
- |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_| (_) (_) (_)
-                                                                 
-                                                                                                                  
-```
-
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
