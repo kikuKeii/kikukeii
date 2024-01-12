@@ -1,15 +1,46 @@
+### query
+```sql
+SELECT *
+FROM world
+WHERE theRightPersonForTheJob LIKE 'Programmer'
+   OR theRightPersonForTheJob LIKE 'Backend'
+   OR theRightPersonForTheJob LIKE 'Web Developer'
+   OR theRightPersonForTheJob LIKE 'Codeigniter'
+   OR theRightPersonForTheJob LIKE 'Laravel'
+   OR theRightPersonForTheJob LIKE 'Express js';
+
+```
+
+<details open>
+   <summary>Results... 12/01/2023</summary>
+  
 # ✨ Hello World..!!! ✨ 😄
 <a href="https://github.com/kikukeii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=true"/></a>
+
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
 <h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppies&weight=1000&pause=1000&color=EE4D2D&center=true&random=false&width=435&lines=I'm+Programmer;+Back-end+Developer;Web+Developer;Web+Application+Developer" alt="Typing SVG" /></a></h3> 
 
+<details open>
+   <summary><h3>About</h3></summary>
+  <p>
+    <br/>
+    👋 Hello! I am Miftakhuddin Falaki, a computer science graduate and web developer with a strong passion for creating creative solutions in the world of technology. With expertise in the Laravel and CodeIgniter 4 frameworks, as well as experience in Express.js, React.js, Next.js, Astro.js, and Jekyll, I am ready to bring innovation to every project.
 
+💻 Proficient in programming languages such as PHP, SQL, and JavaScript, and experienced in using Rest API, I have successfully developed applications that are not only efficient but also aesthetic. My high learning speed allows me to continuously adapt to the latest technological advancements.
 
-![I am Programmer & Web Developer](https://raw.githubusercontent.com/kikuKeii/kikukeii/master/sampul.png)
+🤝 Additionally, my collaborative skills enable me to work well in teams, contributing maximally to achieve common goals. Explore my portfolio at https://kiki.my.id and https://github.com/kikuKeii?tab=repositories.
 
-<strike>I Love codding</strike>.
+📧 If you have any opportunities or interesting projects, let's communicate at kiki@devkikinian.click. I am very enthusiastic about collaborating and bringing creative ideas to life. Let's together create positive change in the world of technology!
+
+🔧 #WebDeveloper #TechEnthusiast #Innovation #Laravel #CodeIgniter #ReactJS #NextJS #ExpressJS #AstroJS #Jekyll
+  </p>
+  
+I <strike>hate</strike> Love codding.
+
+</details>
+
 
 ---
 
@@ -33,7 +64,7 @@
 
 <picture>
   <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
   
   <!-- Light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true" />
@@ -64,3 +95,5 @@
   <!-- Default fallback -->
   <img alt="GitHub Contributor Stats" src="profile-3d-contrib/profile-green-animate.svg" />
 </picture>
+
+</details>
