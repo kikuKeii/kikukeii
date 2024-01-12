@@ -1,3 +1,5 @@
+<a href="https://github.com/kikukeii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=true"/></a>
+
 ###  ꝗᵾɇɍɏ
 ```sql
 SELECT *
@@ -14,8 +16,16 @@ WHERE theRightPersonForYourJob LIKE 'Programmer'
 <details>
    <summary>↲ results ⟪12/01/2024⟫  </summary>
   
-# ✨ Hello World..!!! ✨ 😄
-<a href="https://github.com/kikukeii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=true"/></a>
+```
+  _   _      _ _        __        __         _     _   _   _   _ 
+ | | | | ___| | | ___   \ \      / /__  _ __| | __| | | | | | | |
+ | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | | | | | | |
+ |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| | |_| |_| |_|
+ |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_| (_) (_) (_)
+                                                                 
+                                                                                                                  
+```
+
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
@@ -23,9 +33,8 @@ WHERE theRightPersonForYourJob LIKE 'Programmer'
 
 <details open>
    <summary><h3>About</h3></summary>
-  <p>
-    <br/>
-    👋 Hello! I am Miftakhuddin Falaki, a computer science graduate and web developer with a strong passion for creating creative solutions in the world of technology. With expertise in the Laravel and CodeIgniter 4 frameworks, as well as experience in Express.js, React.js, Next.js, Astro.js, and Jekyll, I am ready to bring innovation to every project.
+  
+👋 Hello! I am Miftakhuddin Falaki, a computer science graduate and web developer with a strong passion for creating creative solutions in the world of technology. With expertise in the Laravel and CodeIgniter 4 frameworks, as well as experience in Express.js, React.js, Next.js, Astro.js, and Jekyll, I am ready to bring innovation to every project. 
 
 💻 Proficient in programming languages such as PHP, SQL, and JavaScript, and experienced in using Rest API, I have successfully developed applications that are not only efficient but also aesthetic. My high learning speed allows me to continuously adapt to the latest technological advancements.
 
@@ -34,8 +43,7 @@ WHERE theRightPersonForYourJob LIKE 'Programmer'
 📧 If you have any opportunities or interesting projects, let's communicate at kiki@devkikinian.click. I am very enthusiastic about collaborating and bringing creative ideas to life. Let's together create positive change in the world of technology!
 
 🔧 #WebDeveloper #TechEnthusiast #Innovation #Laravel #CodeIgniter #ReactJS #NextJS #ExpressJS #AstroJS #Jekyll
-  </p>
-  
+
 I <strike>hate</strike> Love codding.
 
 </details>
