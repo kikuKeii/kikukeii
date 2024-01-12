@@ -18,12 +18,28 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![]()
+### 👾 Most used languages & 🔝 Top Contributed Repo
+
 <picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kikukeii&theme=algolia&hide_border=true&langs_count=5" />
+  
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kikukeii&theme=flat&hide_border=true&langs_count=5" />
+  
+  <!-- Default fallback -->
+  <img alt="GitHub Contributor Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikukeii&theme=flat&hide_border=true&langs_count=5" />
+</picture>
+
+<picture>
+  <!-- Dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  
+  <!-- Light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true" />
-  <img alt="github-snake" src="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true" />
+  
+  <!-- Default fallback -->
+  <img alt="GitHub Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=kikukeii&limit=5&theme=flat&combine_all_yearly_contributions=true" />
 </picture>
 
 ---
@@ -36,8 +52,15 @@
 
 ---
 
+### 🤖 Github Contribution
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kikuKeii/kikukeii/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kikukeii/kikukeii/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/kikukeii/kikukeii/blob/output/github-contribution-grid-snake.svg)" />
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+  
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  
+  <!-- Default fallback -->
+  <img alt="GitHub Contributor Stats" src="profile-3d-contrib/profile-green-animate.svg" />
 </picture>

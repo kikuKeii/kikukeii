@@ -20,5 +20,5 @@ jobs:
           git config user.name kikukeii
           git config user.email miftakhuddinfalaki@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "Cron: Auto generated gh stats image `date +'%Y-%m-%d %H:%M:%S'`"
           git push
