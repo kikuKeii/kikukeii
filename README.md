@@ -1,22 +1,21 @@
-### query
+###  ꝗᵾɇɍɏ
 ```sql
 SELECT *
 FROM world
-WHERE theRightPersonForTheJob LIKE 'Programmer'
-   OR theRightPersonForTheJob LIKE 'Backend'
-   OR theRightPersonForTheJob LIKE 'Web Developer'
-   OR theRightPersonForTheJob LIKE 'Codeigniter'
-   OR theRightPersonForTheJob LIKE 'Laravel'
-   OR theRightPersonForTheJob LIKE 'Express js';
+WHERE theRightPersonForYourJob LIKE 'Programmer'
+   OR theRightPersonForYourJob LIKE 'Backend'
+   OR theRightPersonForYourJob LIKE 'Web Developer'
+   OR theRightPersonForYourJob LIKE 'Codeigniter'
+   OR theRightPersonForYourJob LIKE 'Laravel'
+   OR theRightPersonForYourJob LIKE 'Express js';
 
 ```
 
 <details open>
-   <summary>Results... 12/01/2023</summary>
+   <summary>↲ results ⟪12/01/2024⟫  </summary>
   
 # ✨ Hello World..!!! ✨ 😄
 <a href="https://github.com/kikukeii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=true"/></a>
-
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
