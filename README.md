@@ -10,7 +10,9 @@ WHERE theRightPersonForYourJob LIKE 'Programmer'
    OR theRightPersonForYourJob LIKE 'Codeigniter'
    OR theRightPersonForYourJob LIKE 'Laravel'
    OR theRightPersonForYourJob LIKE 'Express js';
-
+```
+```bash
+Results will be displayed if you click on the results below
 ```
 
 <details>
