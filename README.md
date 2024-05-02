@@ -6,7 +6,6 @@ SELECT *
 FROM world
 WHERE theRightPersonForYourJob LIKE 'Web Developer'
    OR theRightPersonForYourJob LIKE 'Backend Developer'
-   OR theRightPersonForYourJob LIKE 'Web Developer'
    OR theRightPersonForYourJob LIKE 'Codeigniter'
    OR theRightPersonForYourJob LIKE 'Laravel'
    OR theRightPersonForYourJob LIKE 'Java Spring'
