@@ -4,11 +4,12 @@
 ```sql
 SELECT *
 FROM world
-WHERE theRightPersonForYourJob LIKE 'Programmer'
-   OR theRightPersonForYourJob LIKE 'Backend'
+WHERE theRightPersonForYourJob LIKE 'Web Developer'
+   OR theRightPersonForYourJob LIKE 'Backend Developer'
    OR theRightPersonForYourJob LIKE 'Web Developer'
    OR theRightPersonForYourJob LIKE 'Codeigniter'
    OR theRightPersonForYourJob LIKE 'Laravel'
+   OR theRightPersonForYourJob LIKE 'Java Spring'
    OR theRightPersonForYourJob LIKE 'Express js';
 
 ```
