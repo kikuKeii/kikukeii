@@ -4,7 +4,8 @@
 ```sql
 SELECT *
 FROM world
-WHERE theRightPersonForYourJob LIKE 'Web Developer'
+WHERE theRightPersonForYourJob LIKE 'Full-stack Software Engineer'
+   OR theRightPersonForYourJob LIKE 'Web Developer'
    OR theRightPersonForYourJob LIKE 'Backend Developer'
    OR theRightPersonForYourJob LIKE 'Codeigniter'
    OR theRightPersonForYourJob LIKE 'Laravel'
@@ -22,7 +23,7 @@ Thank you for coming here. Results will be displayed if you click on the results
 
 <h1 align="center">Hi 👋, I'm Miftakhuddin Falaki</h1>
 
-<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppies&weight=1000&pause=1000&color=EE4D2D&center=true&random=false&width=435&lines=I'm+Programmer;+Back-end+Developer;Web+Developer;Web+Application+Developer" alt="Typing SVG" /></a></h3> 
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppies&weight=1000&pause=1000&color=EE4D2D&center=true&random=false&width=435&lines=I'm+Programmer;+Back-end+Developer;Full-stack+Software+Engineer;Web+Developer;Web+Application+Developer" alt="Typing SVG" /></a></h3> 
 
 <details open>
    <summary><h3>About</h3></summary>
