@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkikuKeii&count_bg=%23000884&title_bg=%23569CED&icon=php.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=true"/>
+![Visitor Stats](https://stat-github-beta.vercel.app/api/stats?code=kikukeii)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&pause=1000&color=569CED&center=true&random=false&width=600&lines=Hi+there%2C+I'm+Miftakhuddin+Falaki+%F0%9F%91%8B;Backend+Developer;Full-stack+Developer;Web+Developer" alt="Typing SVG" />
 
