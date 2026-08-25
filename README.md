@@ -71,16 +71,12 @@ AND p.status = 'available';
 
 ## ✍️ My Blog
 
-<table>
-  <tr>
-    <td><a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=1"><img src="https://blog.kiki.my.id/card-post1.svg"></a></td>
-    <td><a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=2"><img src="https://blog.kiki.my.id/card-post2.svg"></a></td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=3"><img src="https://blog.kiki.my.id/card-post3.svg"></a></td>
-    <td><a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=4"><img src="https://blog.kiki.my.id/card-post4.svg"></a></td>
-  </tr>
-</table>
+<span>
+   <a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=1"><img src="https://blog.kiki.my.id/card-post1.svg" width="45%"></a>
+   <a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=2"><img src="https://blog.kiki.my.id/card-post2.svg" width="45%"></a>
+    <a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=3"><img src="https://blog.kiki.my.id/card-post3.svg" width="45%"></a>
+    <a target="_blank" href="https://blog.kiki.my.id/card-latest.html?post=4"><img src="https://blog.kiki.my.id/card-post4.svg" width="45%"></a>
+</span>
 
 ---
 
